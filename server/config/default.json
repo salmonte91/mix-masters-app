@@ -1,0 +1,4 @@
+{
+    "mongoURI":
+      "mongodb+srv://nyuser:mixmaster@mixcluster.d2wzjwy.mongodb.net/?retryWrites=true&w=majority"
+  }
